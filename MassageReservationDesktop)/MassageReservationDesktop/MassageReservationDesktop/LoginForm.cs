@@ -17,7 +17,7 @@ public class LoginForm : Form
 
         Text = "Massage Reservation System | Admin Login";
 
-        Size = new Size(1150, 700);
+        Size = new Size(1280, 760);
 
         StartPosition = FormStartPosition.CenterScreen;
 
@@ -29,13 +29,9 @@ public class LoginForm : Form
 
         Font = new Font("Segoe UI", 10);
 
-        // =====================================================
-        // COLORS
-        // =====================================================
-
         Color primary = Color.FromArgb(123, 75, 58);
 
-        Color lightBg = Color.FromArgb(248, 248, 248);
+        Color lightBg = Color.FromArgb(246, 247, 250);
 
         // =====================================================
         // LEFT PANEL
@@ -45,12 +41,10 @@ public class LoginForm : Form
         {
             Dock = DockStyle.Left,
 
-            Width = 430,
+            Width = 470,
 
             BackColor = primary
         };
-
-        // TITLE
 
         Label lblBrand = new Label
         {
@@ -58,44 +52,24 @@ public class LoginForm : Form
 
             Font = new Font(
                 "Segoe UI",
-                30,
+                24,
                 FontStyle.Bold
             ),
 
             ForeColor = Color.White,
 
-            Location = new Point(45, 90),
+            AutoSize = false,
 
-            Size = new Size(330, 180)
+            Width = 350,
+
+            Height = 220,
+
+            Location = new Point(50, 90),
+
+            BackColor = Color.Transparent
         };
 
-        // SUBTITLE
-
-        Label lblDesc = new Label
-        {
-            Text =
-                "Secure admin desktop panel for\n" +
-                "managing reservations, therapists,\n" +
-                "services, schedules, and reports.",
-
-            Font = new Font(
-                "Segoe UI",
-                12
-            ),
-
-            ForeColor = Color.FromArgb(
-                230,
-                255,
-                255,
-                255
-            ),
-
-            Location = new Point(50, 320),
-
-            Size = new Size(320, 120)
-        };
-
-        // FOOTER
+       
 
         Label lblFooter = new Label
         {
@@ -108,19 +82,20 @@ public class LoginForm : Form
 
             ForeColor = Color.FromArgb(
                 220,
-                255,
-                255,
-                255
+                220,
+                220
             ),
 
             AutoSize = true,
 
-            Location = new Point(50, 630)
+            Location = new Point(55, 680),
+
+            BackColor = Color.Transparent
         };
 
         leftPanel.Controls.Add(lblBrand);
 
-        leftPanel.Controls.Add(lblDesc);
+       
 
         leftPanel.Controls.Add(lblFooter);
 
@@ -130,14 +105,12 @@ public class LoginForm : Form
 
         Panel card = new Panel
         {
-            Size = new Size(500, 500),
+            Size = new Size(520, 520),
 
-            Location = new Point(560, 95),
+            Location = new Point(640, 105),
 
             BackColor = Color.White
         };
-
-        // BORDER
 
         card.Paint += (s, e) =>
         {
@@ -159,22 +132,20 @@ public class LoginForm : Form
 
             Font = new Font(
                 "Segoe UI",
-                28,
+               23,
                 FontStyle.Bold
             ),
 
-            ForeColor = Color.FromArgb(35, 35, 35),
+            ForeColor = Color.FromArgb(30, 30, 30),
 
-            Width = 500,
+            Width = 520,
 
             Height = 60,
 
-            Top = 45,
+            Top = 35,
 
             TextAlign = ContentAlignment.MiddleCenter
         };
-
-        // SUBTITLE
 
         Label lblSubtitle = new Label
         {
@@ -188,11 +159,11 @@ public class LoginForm : Form
 
             ForeColor = Color.Gray,
 
-            Width = 500,
+            Width = 520,
 
             Height = 25,
 
-            Top = 102,
+            Top = 90,
 
             TextAlign = ContentAlignment.MiddleCenter
         };
@@ -203,27 +174,31 @@ public class LoginForm : Form
 
         Label lblEmail = new Label
         {
-            Text = "Admin Email",
+            Text = "Email Address",
 
             Font = new Font(
                 "Segoe UI",
                 10
             ),
 
-            ForeColor = Color.FromArgb(60, 60, 60),
+            ForeColor = Color.FromArgb(
+                60,
+                60,
+                60
+            ),
 
             AutoSize = true,
 
-            Location = new Point(60, 165)
+            Location = new Point(60, 155)
         };
 
         // EMAIL PANEL
 
         Panel emailPanel = new Panel
         {
-            Size = new Size(380, 55),
+            Size = new Size(400, 58),
 
-            Location = new Point(60, 190),
+            Location = new Point(60, 180),
 
             BackColor = lightBg
         };
@@ -237,13 +212,13 @@ public class LoginForm : Form
                 12
             ),
 
-            Width = 330,
+            Width = 340,
 
             Location = new Point(18, 18),
 
             BackColor = lightBg,
 
-            Text = "admin@example.com"
+            Text = ""
         };
 
         emailPanel.Controls.Add(txtEmail);
@@ -261,20 +236,24 @@ public class LoginForm : Form
                 10
             ),
 
-            ForeColor = Color.FromArgb(60, 60, 60),
+            ForeColor = Color.FromArgb(
+                60,
+                60,
+                60
+            ),
 
             AutoSize = true,
 
-            Location = new Point(60, 265)
+            Location = new Point(60, 260)
         };
 
         // PASSWORD PANEL
 
         Panel passwordPanel = new Panel
         {
-            Size = new Size(380, 55),
+            Size = new Size(400, 58),
 
-            Location = new Point(60, 290),
+            Location = new Point(60, 285),
 
             BackColor = lightBg
         };
@@ -299,7 +278,7 @@ public class LoginForm : Form
             Text = ""
         };
 
-        // SHOW BUTTON
+        // SHOW PASSWORD BUTTON
 
         Button btnShow = new Button
         {
@@ -309,7 +288,7 @@ public class LoginForm : Form
 
             Height = 45,
 
-            Location = new Point(325, 5),
+            Location = new Point(345, 6),
 
             FlatStyle = FlatStyle.Flat,
 
@@ -338,9 +317,9 @@ public class LoginForm : Form
         {
             Text = "Login",
 
-            Size = new Size(380, 55),
+            Size = new Size(400, 55),
 
-            Location = new Point(60, 375),
+            Location = new Point(60, 380),
 
             FlatStyle = FlatStyle.Flat,
 
@@ -359,8 +338,6 @@ public class LoginForm : Form
 
         btnLogin.FlatAppearance.BorderSize = 0;
 
-        // HOVER
-
         btnLogin.MouseEnter += (_, _) =>
         {
             btnLogin.BackColor =
@@ -378,11 +355,11 @@ public class LoginForm : Form
 
         lblMessage = new Label
         {
-            Width = 380,
+            Width = 400,
 
             Height = 25,
 
-            Location = new Point(60, 445),
+            Location = new Point(60, 450),
 
             Font = new Font(
                 "Segoe UI",
