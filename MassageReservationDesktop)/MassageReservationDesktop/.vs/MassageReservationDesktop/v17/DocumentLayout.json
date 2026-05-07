@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|c:\\2nd yearfiles\\system final project\\massage_reservation_system\\massagereservationdesktop)\\massagereservationdesktop\\massagereservationdesktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|solutionrelative:massagereservationdesktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\massagereservationdesktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|solutionrelative:massagereservationdesktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|c:\\2nd yearfiles\\system final project\\massage_reservation_system\\massagereservationdesktop)\\massagereservationdesktop\\massagereservationdesktop\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|solutionrelative:massagereservationdesktop\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|c:\\2nd yearfiles\\system final project\\massage_reservation_system\\massagereservationdesktop)\\massagereservationdesktop\\massagereservationdesktop\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|solutionrelative:massagereservationdesktop\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|c:\\2nd yearfiles\\system final project\\massage_reservation_system\\massagereservationdesktop)\\massagereservationdesktop\\massagereservationdesktop\\bookingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|solutionrelative:massagereservationdesktop\\bookingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|c:\\2nd yearfiles\\system final project\\massage_reservation_system\\massagereservationdesktop)\\massagereservationdesktop\\massagereservationdesktop\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|solutionrelative:massagereservationdesktop\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|c:\\2nd yearfiles\\system final project\\massage_reservation_system\\massagereservationdesktop)\\massagereservationdesktop\\massagereservationdesktop\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|solutionrelative:massagereservationdesktop\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\massagereservationdesktop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6B86A12-AB9A-4B49-92BB-4ACAA67E8F91}|MassageReservationDesktop\\MassageReservationDesktop.csproj|solutionrelative:massagereservationdesktop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\LoginForm.resx",
+              "RelativeDocumentMoniker": "MassageReservationDesktop\\LoginForm.resx",
+              "ToolTip": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\LoginForm.resx",
+              "RelativeToolTip": "MassageReservationDesktop\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-05T12:59:13.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MassageReservationDesktop\\LoginForm.cs",
+              "ToolTip": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\LoginForm.cs [Design]",
+              "RelativeToolTip": "MassageReservationDesktop\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:59:03.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\Db.cs",
+              "RelativeDocumentMoniker": "MassageReservationDesktop\\Db.cs",
+              "ToolTip": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\Db.cs",
+              "RelativeToolTip": "MassageReservationDesktop\\Db.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:58:44.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingPage.cs",
+              "DocumentMoniker": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\BookingPage.cs",
+              "RelativeDocumentMoniker": "MassageReservationDesktop\\BookingPage.cs",
+              "ToolTip": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\BookingPage.cs",
+              "RelativeToolTip": "MassageReservationDesktop\\BookingPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:58:40.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\AppSettings.cs",
+              "RelativeDocumentMoniker": "MassageReservationDesktop\\AppSettings.cs",
+              "ToolTip": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\AppSettings.cs",
+              "RelativeToolTip": "MassageReservationDesktop\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:58:33.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\Theme.cs",
+              "RelativeDocumentMoniker": "MassageReservationDesktop\\Theme.cs",
+              "ToolTip": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\Theme.cs",
+              "RelativeToolTip": "MassageReservationDesktop\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:58:25.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\MainForm.cs",
+              "RelativeDocumentMoniker": "MassageReservationDesktop\\MainForm.cs",
+              "ToolTip": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\MainForm.cs [Design]",
+              "RelativeToolTip": "MassageReservationDesktop\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:54:43.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MassageReservationDesktop\\LoginForm.cs",
+              "ToolTip": "C:\\2nd YearFiles\\System Final Project\\massage_reservation_system\\MassageReservationDesktop)\\MassageReservationDesktop\\MassageReservationDesktop\\LoginForm.cs",
+              "RelativeToolTip": "MassageReservationDesktop\\LoginForm.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:51:56.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
