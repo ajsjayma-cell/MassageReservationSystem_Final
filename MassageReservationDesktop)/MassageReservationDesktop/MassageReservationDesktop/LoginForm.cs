@@ -408,9 +408,7 @@ public class LoginForm : Form
     // LOGIN FUNCTION
     // =====================================================
 
-    private void LoginButton_Click(
-        object? sender,
-        EventArgs e
+    private void LoginButton_Click(  object? sender, EventArgs e
     )
     {
         try

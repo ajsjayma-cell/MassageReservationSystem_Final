@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MassageReservationDesktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a33f2c85a90ca70393239a2b28e81f7c91e3436b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4847433874d626c56594ff2a078a53d72ca133a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MassageReservationDesktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MassageReservationDesktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

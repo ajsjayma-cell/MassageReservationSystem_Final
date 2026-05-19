@@ -1,41 +1,34 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespace MassageReservationDesktop;
-
-public static class PasswordHelper
+namespace MassageReservationDesktop
 {
-
-    public static bool Verify(string plainPassword, string storedPassword)
+    public static class PasswordHelper
     {
-        
-        if (string.IsNullOrWhiteSpace(storedPassword))
-            return false;
-
-        if (storedPassword.StartsWith("$2y$"))
+        public static string Hash(string password)
         {
-            return plainPassword == "admin123";
-        }
+            using var sha = SHA256.Create();
 
-        return Hash(plainPassword) == storedPassword;
-    }
-
-    public static string Hash(string plainPassword)
-    {
-        using SHA256 sha = SHA256.Create();
-
-        byte[] bytes =
-            sha.ComputeHash(
-                Encoding.UTF8.GetBytes(plainPassword)
+            byte[] bytes = sha.ComputeHash(
+                Encoding.UTF8.GetBytes(password)
             );
 
-        StringBuilder builder = new StringBuilder();
+            StringBuilder builder = new StringBuilder();
 
-        foreach (byte b in bytes)
-        {
-            builder.Append(b.ToString("x2"));
+            foreach (byte b in bytes)
+            {
+                builder.Append(
+                    b.ToString("x2")
+                );
+            }
+
+            return builder.ToString();
         }
 
-        return builder.ToString();
+        internal static bool Verify(string text, string v)
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }
